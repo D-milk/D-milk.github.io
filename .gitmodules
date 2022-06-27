@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/D-milk/D-milk.github.io.git
+	branch = main
